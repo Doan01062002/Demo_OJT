@@ -2,7 +2,10 @@ public class tiendepzai {
     //tien dep zai
     public static void main(String[] args) {
         System.out.println("tien ngu nhu c.ho");
+        System.out.println("vip promax");
         System.out.println("tien ngu");
+
+        // tien bip
         System.out.println("tien vcl");
 
         int a=1;
